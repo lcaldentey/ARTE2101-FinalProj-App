@@ -128,7 +128,7 @@ EVENTS = [
         {"lat": 52.52, "lon": 13.40,  "city": "Berlin, Germany", "year": 1845},
     ],
     "readings": ["Kant and Swedenborg"],
-    "image_file": "swedenborg_Img.png"
+    "image_file": "Swedenborg_Img.png"
   },
   {
     "id": 2, "name": "Mesmerism",
@@ -170,7 +170,7 @@ EVENTS = [
         {"lat": 55.75, "lon": 37.62,  "city": "Moscow, Russia",  "year": 1818},
     ],
     "readings": ["Mesmer (Film, syllabus)"],
-    "image_file": "mesmerism_Img.png"
+    "image_file": "Mesmerism_Img.png"
   },
   {
     "id": 3, "name": "Marian Apparitions (Global)",
@@ -237,7 +237,7 @@ EVENTS = [
         {"lat": 28.61,  "lon": 77.21,  "city": "New Delhi, India",        "year": 1970},
     ],
     "readings": ["Zimdars-Swartz, Encountering Mary", "Harris, Lourdes", "Song of Bernadette (Film)", "Fatima (Film)"],
-    "image_file": "marian_Img.png"
+    "image_file": "Marian_Img.png"
   },
   {
     "id": 4, "name": "Christian Science",
@@ -284,7 +284,7 @@ EVENTS = [
         {"lat": 43.65, "lon": -79.38,  "city": "Toronto, Canada",   "year": 1906},
     ],
     "readings": ["Science and Health With Key to the Scriptures (Eddy, syllabus)"],
-    "image_file": "christian_science_Img.png"
+    "image_file": "Christian_science_Img.png"
   },
   {
     "id": 5, "name": "Theosophical Society",
@@ -334,7 +334,7 @@ EVENTS = [
         {"lat": 55.75,  "lon": 37.62,  "city": "Moscow, Russia",           "year": 1908},
     ],
     "readings": ["Santucci, 'The Theosophical Society'"],
-    "image_file": "theosophy_Img.png"
+    "image_file": "Theosophy_Img.png"
   },
   {
     "id": 6, "name": "Anthroposophy (Rudolf Steiner)",
@@ -380,7 +380,7 @@ EVENTS = [
         {"lat": -23.55, "lon": -46.63, "city": "São Paulo, Brazil",         "year": 1956},
     ],
     "readings": ["Staudenmeier, DCE 'Anthroposophy Entry'"],
-    "image_file": "anthroposophy_Img.png"
+    "image_file": "Anthroposophy_Img.png"
   },
   {
     "id": 7, "name": "Vedanta & Self-Realization Fellowship",
@@ -430,7 +430,7 @@ EVENTS = [
         {"lat": 35.69, "lon": 139.69,  "city": "Tokyo, Japan",        "year": 1967},
     ],
     "readings": ["Foxen, Biography of a Yogi", "Raja Yoga (Primary Source)", "Awake (Documentary Film)"],
-    "image_file": "vedanta_Img.png"
+    "image_file": "Vedanta_Img.png"
   },
   {
     "id": 8, "name": "Hare Krishna (ISKCON)",
@@ -526,7 +526,7 @@ EVENTS = [
         {"lat": 35.69, "lon": 139.69, "city": "Tokyo, Japan",     "year": 1963},
     ],
     "readings": ["Course readings on counterculture"],
-    "image_file": "beat_generation_Img.png"
+    "image_file": "Beat_generation_Img.png"
   },
   {
     "id": 10, "name": "The Jesus Movement",
@@ -571,7 +571,7 @@ EVENTS = [
         {"lat": 43.65, "lon": -79.38,  "city": "Toronto, Canada",     "year": 1972},
     ],
     "readings": ["Shires, 'The Countercultural Christians'", "Eskridge, 'Jesus Knocked Me Off My Metaphysical Ass'"],
-    "image_file": "jesus_movement_Img.png"
+    "image_file": "Jesus_movement_Img.png"
   },
   {
     "id": 11, "name": "5% Nation of Gods and Earths",
@@ -614,7 +614,7 @@ EVENTS = [
         {"lat": 51.51, "lon": -0.13,   "city": "London, UK",                "year": 1990},
     ],
     "readings": ["Knight, Five Percent Nation", "Tao of Wu (RZA)"],
-    "image_file": "five_percent_Img.png"
+    "image_file": "Five_percent_Img.png"
   },
   {
     "id": 12, "name": "Kabbalah Centre",
@@ -659,7 +659,7 @@ EVENTS = [
         {"lat": -33.87,"lon": 151.21,  "city": "Melbourne, Australia","year": 2005},
     ],
     "readings": ["Myers, 'Kabbalah at the Turn of the 21st Century'", "Huss, 'All You Need is LAV – Madonna and Postmodern Kabbalah'"],
-    "image_file": "kabbalah_Img.png"
+    "image_file": "Kabbalah_Img.png"
   },
   {
     "id": 13, "name": "Mindfulness & Corporate Wellness",
@@ -709,7 +709,7 @@ EVENTS = [
         {"lat": 1.35,  "lon": 103.82,  "city": "Singapore",              "year": 2011},
     ],
     "readings": ["Purser, McMindfulness", "Carette, Selling Spirituality", "Taylor, A Secular Age"],
-    "image_file": "mindfulness_Img.png"
+    "image_file": "Mindfulness_Img.png"
   },
   {
     "id": 14, "name": "Communal Living / Hippie Communes",
@@ -754,7 +754,7 @@ EVENTS = [
         {"lat": 52.52, "lon": 13.40,   "city": "Berlin, Germany",          "year": 1968},
     ],
     "readings": ["Altglas, 'From Yoga To Kabbalah'"],
-    "image_file": "communes_Img.png"
+    "image_file": "Communes_Img.png"
   },
   {
     "id": 15, "name": "Yoga as Global Practice",
@@ -806,7 +806,7 @@ EVENTS = [
         {"lat": -1.29, "lon": 36.82,   "city": "Nairobi, Kenya",     "year": 2005},
     ],
     "readings": ["Peace, Love and Yoga (Jain)", "Yoga for the City (Documentary Short)"],
-    "image_file": "yoga_Img.png"
+    "image_file": "Yoga_Img.png"
   },
 ]
 
