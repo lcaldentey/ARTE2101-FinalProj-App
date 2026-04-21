@@ -1116,7 +1116,10 @@ def interactive_body():
             with img_col:
                 import os
                 base_dir = os.path.dirname(os.path.abspath(__file__))
+                st.write(base_dir)  # temporary DEBUG line
                 img_path = os.path.join(base_dir, "Images", det["image_file"])
+                st.write(img_path)  # DEBUG debug line
+                st.write(os.path.exists(img_path))  # shows True or False DEBUG
                 if os.path.exists(img_path):
                     st.image(img_path, use_container_width=True)
                 else:
