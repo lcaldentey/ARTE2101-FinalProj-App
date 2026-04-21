@@ -137,9 +137,9 @@ EVENTS = [
     "category": "Proto-Psychology / Healing", "color": "#7EC8A8",
     "description": (
         "Franz Anton Mesmer proposed in 1774 that a subtle magnetic fluid permeated all living bodies "
-        "and that disease arose from its blockage. His treatment — theatrical group sessions around a "
-        "magnetized 'baquet' tub, with patients experiencing tremors and cathartic 'crises' — was "
-        "simultaneously spectacle, medical innovation, and popular sensation. Mesmer lated moved to Paris in 1778, "
+        "and that disease arose from its blockage. His treatment consisted of theatrical group sessions around a "
+        "magnetized 'baquet' tub, with patients experiencing tremors and cathartic 'crises'. These sessions were "
+        "stated to be simultaneously a spectacle, medical innovation, and popular sensation. Mesmer lated moved to Paris in 1778, "
         "and attracted aristocratic patrons before a royal commission (including Benjamin Franklin "
         "and Lavoisier) debunked animal magnetism in 1784. This debunking, however, did not kill the movement. "
         "Armand de Puységur discovered the somnambulistic trance — the direct precursor of hypnosis. "
@@ -180,12 +180,12 @@ EVENTS = [
     "description": (
         "The Marian apparition tradition achieved global cultural mass beginning with Bernadette "
         "Soubirous at Lourdes in 1858, where the Virgin Mary reportedly appeared eighteen times in "
-        "the Grotto of Massabielle. Each new apparition site re-enacts the same grammar: children or "
-        "simple visionaries receive messages, crowds gather, healings are reported, ecclesiastical "
-        "investigation follows, and — sometimes — official recognition transforms a local site into a "
+        "the Grotto of Massabielle. The common trend of each new apparition involved children or "
+        "simple visionaries recieving messages or sightings of the virgin mary, gathering crowds and offering healings. "
+        "Though often shrouded in investigations and doubt, the several officially refognized sightings transform a local site into a "
         "global pilgrimage destination. Knock, Ireland (1879) drew the suffering post-Famine "
-        "population. Fátima, Portugal (1917) brought geopolitical urgency — the Virgin warned of "
-        "Russia's errors and called for consecration, a message weaponized throughout the Cold War. "
+        "population. Fátima, Portugal (1917) brought geopolitical urgency (the Virgin warned of "
+        "Russia's errors and called for consecration --a message weaponized throughout the Cold War). "
         "Zeitoun, Egypt (1968) drew millions of Coptic Christians and Muslims alike. Medjugorje in "
         "Yugoslavia (1981) became the most visited apparition site in history. Kibeho, Rwanda "
         "(1981–89) gained tragic retrospective significance for its warnings before the 1994 genocide. "
@@ -245,16 +245,16 @@ EVENTS = [
     "lat": 42.36, "lon": -71.06, "origin_city": "Boston, USA",
     "category": "New Religious Movement", "color": "#DDA0DD",
     "description": (
-        "In 1866, Mary Baker Eddy slipped on ice in Lynn, Massachusetts, suffered serious injuries, "
-        "and claimed to have healed herself by reading the Gospel account of Jesus healing the "
+        "In 1866, Mary Baker Eddy slipped on ice in Lynn, Massachusetts. She suffered serious injuries, "
+        "but, claimed to have healed herself by reading the Gospel account of Jesus healing the "
         "paralytic. This experience became the foundation of Christian Science: the claim that matter, "
-        "including the body and its diseases, is ultimately unreal — a false belief of mortal mind — "
+        "including the body and its diseases, is ultimately unreal — or at least deeply tied to the spirit and mind — "
         "and that true understanding of God as divine Mind dissolves illness. Eddy systematized this "
-        "in Science and Health with Key to the Scriptures (1875), one of the bestselling religious "
+        "in Science and Health with 'Key to the Scriptures (1875)', one of the bestselling religious "
         "books in American history. She founded the First Church of Christ, Scientist in Boston in "
         "1879 and the Christian Science Monitor newspaper in 1908. Her movement was the first major "
-        "American religion founded by a woman, attracting a predominantly female following and "
-        "offering women a role as spiritual healers ('practitioners') at a time when medicine was a "
+        "American religion founded by a woman, and atracted a predominantly female following at its start through its "
+        "belief that women played a critial role as spiritual healers ('practitioners') at a time when medicine was a "
         "male domain. Christian Science reached its peak in the 1920s–30s with thousands of branch "
         "churches worldwide."
     ),
@@ -294,11 +294,11 @@ EVENTS = [
     "description": (
         "In September 1875, Helena Petrovna Blavatsky and Henry Steel Olcott gathered in a New York "
         "drawing room to found the Theosophical Society. Blavatsky synthesized Hindu cosmology, "
-        "Buddhist metaphysics, Neoplatonism, Kabbalah, and evolutionary theory into Theosophy — "
-        "'divine wisdom.' Her works, Isis Unveiled (1877) and The Secret Doctrine (1888), proposed "
+        "Buddhist metaphysics, Neoplatonism, Kabbalah, and evolutionary theory into Theosophy or "
+        "'divine wisdom.' Her works include the famous 'Isis Unveiled (1877)' and 'The Secret Doctrine (1888)' in which both proposed "
         "that all world religions encode a single esoteric wisdom-tradition, that humanity undergoes "
-        "spiritual evolution across vast cosmic timeframes, and that an invisible Brotherhood of "
-        "Masters (Mahatmas) guides human progress from the Himalayas. Moving headquarters to Adyar, "
+        "spiritual evolution across vast cosmic timeframes. "
+        "Moving headquarters to Adyar, "
         "India in 1882, Blavatsky and Olcott helped catalyze Buddhist revivalism in Ceylon and "
         "framed Eastern religions as sophisticated philosophical systems — a reframing with enormous "
         "anti-colonial significance. Annie Besant, who led after 1891, brought Theosophy into Indian "
@@ -342,15 +342,16 @@ EVENTS = [
     "lat": 47.54, "lon": 7.59, "origin_city": "Dornach, Switzerland",
     "category": "Esoteric / Occult", "color": "#F4A460",
     "description": (
-        "Rudolf Steiner gave over 6,000 lectures, founded two new arts (Eurythmy and biodynamic "
+        "One cannot discuss Anthroposophy without speaking of Rudolf Steiner. "
+        "Steiner gave over 6,000 lectures, founded two new arts (Eurythmy and biodynamic "
         "agriculture), designed the Goetheanum — a landmark of organic architecture — and applied his "
-        "'spiritual science' to education, medicine, pharmacy, theater, and painting. A former leader "
+        "'spiritual science' to education, medicine, pharmacy, theater, and painting. As a former leader "
         "of the German Theosophical Society, Steiner broke with Blavatsky's system in 1912 to found "
         "Anthroposophy, insisting on the unique cosmic significance of Christ's incarnation and on the "
         "possibility of a rigorous, verifiable science of the spirit. Where Blavatsky looked East for "
-        "wisdom, Steiner looked to the Western esoteric tradition: Goethe, Meister Eckhart, and "
+        "wisdom, Steiner looked to the Western esoteric tradition: namely Goethe, Meister Eckhart, and "
         "Rosicrucianism. His Waldorf school (Stuttgart, 1919), designed for the children of factory "
-        "workers, embodied his conviction that education must address body, soul, and spirit together."
+        "workers, embodied his belief that education must address body, soul, and spirit together."
     ),
     "key_figures": ["Rudolf Steiner", "Marie Steiner von Sivers"],
     "beliefs": [
@@ -389,9 +390,9 @@ EVENTS = [
     "category": "Hindu-derived / Neo-Vedanta", "color": "#FF8C00",
     "description": (
         "On September 11, 1893, Swami Vivekananda rose before the Parliament of the World's Religions "
-        "in Chicago and began: 'Sisters and brothers of America.' The crowd responded with a "
-        "two-minute standing ovation. His message — that all religions are paths to the same divine "
-        "reality, that the soul's nature is already divine — electrified the West and transformed how "
+        "in Chicago and started: 'Sisters and brothers of America.' With just those 5 words, The crowd roared with a "
+        "two-minute standing ovation. Vivekananda's central message was that all religions are paths to the same divine "
+        "reality, and that the soul's nature is already divine. These belief's deeply impacted the West and transformed how "
         "Hinduism was perceived globally. Vivekananda's Vedanta societies, founded in New York (1894) "
         "and London (1895), were the first Hindu institutions in the West. His framework blended "
         "Enlightenment values with his guru Sri Ramakrishna's devotional, ecstatic Bengali religiosity. "
@@ -411,8 +412,8 @@ EVENTS = [
     ],
     "impact": (
         "Vivekananda's 1893 address is the inaugural moment of global yoga and Hindu philosophy in the "
-        "West. The Neo-Vedanta framework — all religions share an esoteric core, spiritual practice "
-        "can be scientific, Eastern wisdom corrects Western materialism — became the template for "
+        "West. The Neo-Vedanta framework of all religions sharing an esoteric core and of spiritual practice "
+        " being represented scientifically became the template for "
         "virtually all subsequent Western appropriations of Hindu philosophy, from the Beatles to the "
         "New Age to Silicon Valley mindfulness culture."
     ),
@@ -438,16 +439,14 @@ EVENTS = [
     "lat": 40.71, "lon": -74.01, "origin_city": "New York, USA",
     "category": "Hindu-derived / Vaishnava", "color": "#FFD700",
     "description": (
-        "In 1965, A.C. Bhaktivedanta Swami Prabhupada arrived in New York City with $40 and a trunk "
+        "Hare Hare Krishna!!! In 1965, A.C. Bhaktivedanta Swami Prabhupada arrived in New York City with $40 and a trunk "
         "of Bengali-language scriptures. Within a year he had attracted a community of "
-        "counterculturalists in the Bowery, incorporated ISKCON, and was chanting the Hare Krishna "
+        "counterculturalists in the Bowery, incorporated ISKCON to his surroundings, and was chanting the Hare Krishna "
         "maha-mantra in Tompkins Square Park. ISKCON spread along the counterculture's international "
         "networks: San Francisco (1967), London's Radha-Krishna Temple (1969), where George Harrison "
-        "produced the UK hit record 'Hare Krishna Mantra,' launching bhakti into the pop charts. "
+        "famously produced the UK hit record 'Hare Krishna Mantra,' launching bhakti into the pop charts. "
         "Harrison's devotional anthem 'My Sweet Lord' (1970) gave ISKCON a global cultural platform "
-        "few new religious movements have ever matched. The theology is classical Gaudiya Vaishnavism: "
-        "Krishna as the Supreme Personality of Godhead, devotional service (bhakti) as the highest "
-        "path, and chanting the Holy Name as the most powerful spiritual practice for this age. "
+        "few new religious movements have ever matched. "
         "Prabhupada established 108 temples and personally initiated over 5,000 disciples before his "
         "death in 1977."
     ),
@@ -490,17 +489,17 @@ EVENTS = [
     "category": "Literary / Counterculture", "color": "#708090",
     "description": (
         "The Beat Generation emerged from the collision of Columbia University literary bohemia and "
-        "the San Francisco poetry renaissance in the late 1940s–50s. Their spiritual project was "
-        "explicit and urgent: to find sacred experience outside institutional religion, using "
+        "the San Francisco poetry renaissance in the late 1940s–50s. Their spiritual focus revolved aroud"
+        "finding sacred experiencs outside institutional religion using "
         "literature, jazz, sex, drugs, and the open road as vehicles. Kerouac wrote On the Road in a "
         "semi-trance state — saturated with what he called 'IT': moments of ecstatic presence. Allen "
         "Ginsberg's 1948 Blake vision (hearing William Blake's voice and feeling the universe open) "
-        "became the founding mystical event of his career. Gary Snyder, who lived in Japan studying "
+        "became the founding mystical event of his career. And Gary Snyder, who lived in Japan studying "
         "Zen for a decade, brought rigorous contemplative practice into the Beat orbit. Burroughs, in "
         "Tangier and Paris, experimented with hallucinogens as consciousness tools and developed the "
         "'cut-up' technique as a spiritual technology for breaking through conditioned perception. The "
         "Beats were the first American cultural movement to treat Buddhism, Hinduism, and indigenous "
-        "shamanism as equal or superior to Christianity as paths to authentic experience."
+        "shamanism as equal (or even superior) to Christianity as paths to authentic experience."
     ),
     "key_figures": ["Jack Kerouac", "Allen Ginsberg", "Gary Snyder", "William S. Burroughs", "Lawrence Ferlinghetti"],
     "beliefs": [
@@ -540,10 +539,10 @@ EVENTS = [
         "central identity was applying the countercultural model to evangelism: informal dress, rock "
         "music, communal living, and the language of 'experience' and 'encounter' transmitted an "
         "essentially conservative Protestant theology. A charismatic figure who "
-        "performed mass baptisms in the Pacific named Lonnie Frisbee was the movement's most electric figure, though his "
-        "later revelation as a gay man caused him to be largely written out of official history. "
+        "performed mass baptisms in the Pacific named Lonnie Frisbee was the movement's most noteable figure, though his "
+        "later revelation as a gay man caused him to be largely written out of official history. (For this reason I thought he should be highlighted here)"
         "Chuck Smith's Calvary Chapel in Costa Mesa became the movement's institutional home. The "
-        "Jesus Movement led the way in the entire genre of Contemporary Christian Music: Larry Norman, "
+        "Jesus Movement led the way in practically the entire genre of Contemporary Christian Music: Larry Norman, "
         "Keith Green, and later Amy Grant among others translated the emotional register of rock and pop into "
         "Christian devotion."
     ),
@@ -580,10 +579,10 @@ EVENTS = [
     "category": "Black Spiritual Movement", "color": "#DC143C",
     "description": (
         "In 1964, Clarence 13X broke with the Nation of Islam and began teaching on the streets of "
-        "Harlem under the name Allah the Father. His most radical move: if the Original (Black) Man "
+        "Harlem under the name Allah the Father. His logic revolved around the idea that if the Original (Black) Man "
         "is God, then there is no need for a distant deity. Allah the Father taught Supreme Mathematics "
         "and the Supreme Alphabet — numerical and alphabetical keys to divine reality — enabling "
-        "initiates to read the world as divine text. The theology was deliberately street-level: "
+        "initiates to read the world as divine text. The theology was deliberately 'street-level' where"
         "Allah spent his time in Harlem's parks reaching young Black men. His followers called "
         "themselves 'Five Percenters': 85% of humanity is mentally enslaved, 10% are bloodsuckers "
         "who maintain their control, and 5% are the poor righteous teachers who know the truth and "
@@ -599,9 +598,9 @@ EVENTS = [
         "Self-knowledge (knowing who you are) is the supreme spiritual act"
     ],
     "impact": (
-        "Five Percenter theology is embedded in hip-hop culture so deeply most listeners are unaware "
-        "of it. The vocabulary — 'word is bond,' 'the cipher,' 'building,' 'peace,' addressing men as "
-        "'God' and women as 'Earth,' 'dropping science' — all derive from 5% Nation. Wu-Tang Clan's "
+        "Five Percenter theology is so deeply embedded in hip-hop culture that most listeners are unaware "
+        "of it. The vocabulary — 'word is bond,' 'the cipher,' 'break it down,' 'peace,' addressing men as "
+        "'God' and women as 'Earth,' 'dropping science' — all derive from 5% Nation slang. Wu-Tang Clan's "
         "entire cosmology is Five Percenter theology. Poor Righteous Teachers, Brand Nubian, Big "
         "Daddy Kane, Busta Rhymes, and Jay-Z have all engaged the tradition."
     ),
@@ -624,15 +623,13 @@ EVENTS = [
     "description": (
         "Philip Berg (born Feivel Gruberger) was a former insurance salesman who studied under "
         "Yehuda Brandwein, a kabbalist in the tradition of the 16th-century Safed mystics. After "
-        "Brandwein's death, Berg reinterpreted his teacher's mission radically: where traditional "
+        "Brandwein's death, Berg reinterpreted his teacher's mission radically. Where the more traditional "
         "Kabbalah was an elite, male, observant-Jewish practice, Berg's Kabbalah Centre would be "
-        "open to everyone. The Centre packaged a simplified, therapeutic Kabbalah — the Zohar as "
-        "'spiritual technology' for scanning; the red string as protective amulet; the 72 Names of "
-        "God as consciousness tools — and sold it through a global network. By the 1990s, the Los "
+        "open to everyone. The Centre packaged a simplified, therapeutic Kabbalah and sold it through a global network." 
+        "By the 1990s, the Los "
         "Angeles centre had become a celebrity destination: Madonna's 1996 immersion transformed the "
         "Kabbalah Centre into an international media phenomenon. The red Kabbalah string became the "
-        "decade's most recognizable item of celebrity spiritual fashion. Academic Kabbalists were "
-        "horrified; sociologists of religion were fascinated."
+        "decade's most recognizable item of celebrity spiritual fashion."
     ),
     "key_figures": ["Philip Berg", "Karen Berg", "Yehuda Berg", "Madonna"],
     "beliefs": [
@@ -643,10 +640,10 @@ EVENTS = [
         "Transformation of ego (desire to receive) into sharing as spiritual practice"
     ],
     "impact": (
-        "The Kabbalah Centre raised fundamental questions about the commodification of sacred "
+        "The Kabbalah Centre raised a fundamental questions about the commodification of sacred "
         "knowledge: who owns a tradition? Can spiritual wisdom be packaged and sold? Is "
         "democratization inevitably distortion? Scholars Boaz Huss and Jody Myers have analyzed it "
-        "as a case study of religious globalization and New Age hybridization."
+        "as a case study of religious globalization and New Age hybridization. Very interesting indeed."
     ),
     "spread": [
         {"lat": 34.05, "lon": -118.24, "city": "Los Angeles, USA",    "year": 1984},
@@ -669,16 +666,13 @@ EVENTS = [
     "description": (
         "In 1979, Jon Kabat-Zinn, a molecular biologist with a Zen practice, introduced "
         "Mindfulness-Based Stress Reduction (MBSR) at the University of Massachusetts Medical School. "
-        "His innovation was methodological and strategic: by stripping mindfulness meditation of its "
-        "Buddhist philosophical context — no karma, no rebirth, no ethical framework — and reframing "
-        "it in the language of neuropsychology and evidence-based medicine, he made it acceptable to "
+        "He argued that by stripping mindfulness meditation of its "
+        "Buddhist philosophical context (so no karma, rebirth, or ethical considerations) and instead reframing "
+        "it in the language of neuropsychology and evidence-based medicine, he could make it acceptable to "
         "secular healthcare institutions. By the 2010s, mindfulness had migrated from medicine to "
-        "corporations: Google's Search Inside Yourself program, McKinsey's mindfulness offerings, the "
+        "corporations. Google's Search Inside Yourself program, McKinsey's mindfulness offerings, the "
         "World Economic Forum's meditation sessions, and tens of thousands of corporate wellness apps "
-        "had transformed a Buddhist liberation practice into a productivity tool. Ron Purser's "
-        "McMindfulness (2019) mounted the most sustained critique: that corporate mindfulness removes "
-        "the ethical and political dimensions of Buddhist practice, teaching workers to manage the "
-        "stress of unjust conditions rather than to challenge them."
+        "had transformed a Buddhist liberation practice into a productivity tool."
     ),
     "key_figures": ["Jon Kabat-Zinn", "Thich Nhat Hanh", "Mark Williams", "Zindel Segal"],
     "beliefs": [
@@ -718,16 +712,15 @@ EVENTS = [
     "category": "Counterculture / Communal", "color": "#6B8E23",
     "description": (
         "Between 1965 and 1975, an estimated 10,000 intentional communities formed across the United "
-        "States alone. Drop City in Colorado (1965), the first rural hippie commune, established the "
-        "basic template: geodesic domes, communal property, psychedelic sacraments, and the attempt "
-        "to build a counter-society outside capitalism. The Farm in Summertown, Tennessee, founded by "
-        "Stephen Gaskin and 320 of his San Francisco students in 1971, became the most durable: at "
-        "its peak it had 1,500 residents, its own school, publishing house, medical clinic, and "
+        "States alone. The first rural hippie commune was located in Drop City, Colorado (1965), and largely established the "
+        "basic template for communes to come: geodesic domes, communal property, psychedelic sacraments, and the attempt "
+        "to build a counter-society outside capitalism. The Farm in Summertown, Tennessee (founded by "
+        "Stephen Gaskin and 320 of his San Francisco students in 1971) became perhaps the most successful. At "
+        "its peak it had over 1,500 residents, its own school, a publishing house, medical clinic, and "
         "midwifery program (Ina May Gaskin's work there transformed American natural childbirth). "
-        "Spiritual frameworks varied: neo-pagan, Buddhist, vaguely Christian, explicitly psychedelic. "
-        "What united communes was a shared set of rejections — wage labor, nuclear family, private "
-        "property — and affirmations: ecological consciousness, communal childcare, sexual liberation, "
-        "and the sacred dimensions of nature."
+        "What united communes was both a shared set of rejections (namely those of wage labor, the nuclear family, private "
+        "property) and similarly affirmation (in this case of secological consciousness, communal childcare, and sexual liberation)"
+        "among others."
     ),
     "key_figures": ["Stephen Gaskin", "Ina May Gaskin", "Ram Dass (Richard Alpert)", "Timothy Leary", "Ken Kesey"],
     "beliefs": [
@@ -738,12 +731,12 @@ EVENTS = [
         "The personal as political: transforming daily life is revolutionary action"
     ],
     "impact": (
-        "The commune movement's direct legacy includes: organic farming and the modern food co-op "
-        "movement; the modern homebirth and natural childbirth movement; the ecovillage and "
-        "intentional community network (now global); and festival culture (Burning Man, Rainbow "
+        "The commune movement's direct legacy includes organic farming and the modern food co-op "
+        "movement, the modern homebirth and natural childbirth movement, the ecovillage and "
+        "intentional community network (now global), and festival culture (Burning Man, Rainbow "
         "Gatherings trace directly to commune culture). The Whole Earth Catalog, published from the "
         "commune network, was Steve Jobs's 'bible' and a direct ancestor of the internet's "
-        "information-sharing ethos."
+        "information-sharing ethos. A lot of Steve Jobs references among these movements, I know."
     ),
     "spread": [
         {"lat": 35.66, "lon": -87.04,  "city": "The Farm, Tennessee, USA", "year": 1971},
@@ -763,15 +756,14 @@ EVENTS = [
     "category": "Yoga / Wellness", "color": "#FF6347",
     "description": (
         "The global yoga phenomenon has roots in the Neo-Vedanta mission of Vivekananda and Yogananda, "
-        "but its mass cultural form — studios, mats, Lululemon, teacher trainings, Instagram asanas — "
-        "is a product of the 1980s–2000s. Krishnamacharya's lineage (Iyengar Yoga, Ashtanga, "
-        "Viniyoga) provided the technical vocabulary. B.K.S. Iyengar's Light on Yoga (1966) and "
+        "but its mass cultural form of studios, mats, Lululemon, teacher trainings, and Instagram photo shoots "
+        "is a product of the 1980s–2000s. B.K.S. Iyengar's Light on Yoga (1966) and "
         "K. Pattabhi Jois's Ashtanga Vinyasa system attracted Western students to Mysore. Bikram "
         "Choudhury's Hot Yoga franchise (Los Angeles, 1974) was yoga's first mass commercialization. "
         "By the 2000s, yoga had fully detached from its Hindu philosophical moorings in much of the "
         "West and become a secular wellness practice: a supplement to gym culture, a stress management "
-        "tool, a lifestyle brand. The debate — 'yoga appropriation' vs. 'universally available "
-        "body-wisdom' — has been one of the defining cultural controversies of globalized spirituality."
+        "tool, and even a lifestyle brand. The debate of 'yoga appropriation' vs. 'universally available "
+        "body-wisdom' has been one of the defining cultural controversies of globalized spirituality."
     ),
     "key_figures": ["K. Pattabhi Jois", "B.K.S. Iyengar", "T. Krishnamacharya", "Bikram Choudhury", "Yogi Bhajan"],
     "beliefs": [
@@ -782,8 +774,8 @@ EVENTS = [
         "Self-transformation through disciplined practice and detachment"
     ],
     "impact": (
-        "Over 300 million practitioners worldwide. The global yoga industry — studios, clothing, "
-        "retreats, teacher training — is estimated at $80+ billion annually. Yoga's globalization "
+        "Over 300 million practitioners worldwide. The global yoga industry including studios, clothing, "
+        "retreats, and teacher training is estimated at $80+ billion annually. Yoga's globalization "
         "has been one of the most significant transfers of embodied spiritual knowledge in history, "
         "though its commercial form raises profound questions about what is transmitted and what "
         "is lost in translation."
