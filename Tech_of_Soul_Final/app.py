@@ -2,6 +2,10 @@ import streamlit as st
 import plotly.graph_objects as go
 import math
 
+#For images to appear
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+
 st.set_page_config(
     page_title="Technologies of the Soul",
     page_icon="✦",
@@ -1111,7 +1115,8 @@ def interactive_body():
 
             with img_col:
                 import os
-                img_path = os.path.join("Images", det["image_file"])
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+                img_path = os.path.join(base_dir, "Images", det["image_file"])
                 if os.path.exists(img_path):
                     st.image(img_path, use_container_width=True)
                 else:
